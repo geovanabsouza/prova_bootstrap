@@ -1,0 +1,24 @@
+.img{
+    width: 60%;
+}
+.texto{
+    text-align: left;
+}
+
+.main{
+    margin-top: 3%;
+}
+
+h1{
+    text-align: center;
+    padding: 2%;
+}
+
+section{
+    padding: 3%;
+}
+
+footer{
+    background-color: bisque;
+    padding: 2%;
+}
